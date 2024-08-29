@@ -1,0 +1,15 @@
+/Users/nonantiy/Desktop/DonutNet/bin/Debug/net8.0/DonutNet
+/Users/nonantiy/Desktop/DonutNet/bin/Debug/net8.0/DonutNet.deps.json
+/Users/nonantiy/Desktop/DonutNet/bin/Debug/net8.0/DonutNet.runtimeconfig.json
+/Users/nonantiy/Desktop/DonutNet/bin/Debug/net8.0/DonutNet.dll
+/Users/nonantiy/Desktop/DonutNet/bin/Debug/net8.0/DonutNet.pdb
+/Users/nonantiy/Desktop/DonutNet/obj/Debug/net8.0/DonutNet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nonantiy/Desktop/DonutNet/obj/Debug/net8.0/DonutNet.AssemblyInfoInputs.cache
+/Users/nonantiy/Desktop/DonutNet/obj/Debug/net8.0/DonutNet.AssemblyInfo.cs
+/Users/nonantiy/Desktop/DonutNet/obj/Debug/net8.0/DonutNet.csproj.CoreCompileInputs.cache
+/Users/nonantiy/Desktop/DonutNet/obj/Debug/net8.0/DonutNet.sourcelink.json
+/Users/nonantiy/Desktop/DonutNet/obj/Debug/net8.0/DonutNet.dll
+/Users/nonantiy/Desktop/DonutNet/obj/Debug/net8.0/refint/DonutNet.dll
+/Users/nonantiy/Desktop/DonutNet/obj/Debug/net8.0/DonutNet.pdb
+/Users/nonantiy/Desktop/DonutNet/obj/Debug/net8.0/DonutNet.genruntimeconfig.cache
+/Users/nonantiy/Desktop/DonutNet/obj/Debug/net8.0/ref/DonutNet.dll
